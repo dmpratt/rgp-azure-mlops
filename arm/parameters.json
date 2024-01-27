@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "vaults_mlops1464789735_name": {
+            "value": null
+        },
+        "workspaces_mlops_manual_name": {
+            "value": null
+        },
+        "components_mlops6024588655_name": {
+            "value": null
+        },
+        "storageAccounts_mlops4731494827_name": {
+            "value": null
+        },
+        "workspaces_mlops_name": {
+            "value": null
+        },
+        "storageAccounts_storemlopsmanual_name": {
+            "value": null
+        },
+        "workspaces_mlops0320890807_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___mlops6024588655_name": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        }
+    }
+}
